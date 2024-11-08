@@ -1,0 +1,11 @@
+comandos
+1.git init
+2.git status
+3.git branch -M main
+4.git push -u
+5.git add .
+6.git remote add origin 
+7.git commit
+8.git config credential.username
+9.git config --global user.name
+10.git log
